@@ -27,6 +27,9 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-replace-img"
+  gem "jekyll-avatar"
+  gem "jekyll-sitemap"
+  gem "jekyll-livereload"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

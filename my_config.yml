@@ -36,13 +36,13 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/pp.jpeg
+logo:                  /assets/icons/pp.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:              Danial Azam
   email:             dazam92@gmail.com
-  picture:           /assets/icons/pp.jpeg  
+  picture:           /assets/icons/pp.jpg  
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -283,6 +283,7 @@ plugins:
 
 # theme: jekyll-theme-hydejack
 remote_theme: qwtel/hydejack@v8.5.1
+# remote_theme: qwtel/hydejack@gem
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
